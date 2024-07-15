@@ -1,2 +1,4 @@
-# loc_tracker
-location tracker
+Paketinizi pip kullanarak yükleyebilirsiniz:
+
+Afiyet olsun. 
+
